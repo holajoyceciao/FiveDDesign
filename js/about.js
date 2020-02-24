@@ -35,13 +35,13 @@ $(".logo_click").click(function() {
     $(this).css({ left: "37.5%" });
 
     $(".about1")
-      .animate({ top: "38%", left: "44.2%" })
+      .animate({ top: "38%", left: "35%" })
       .css({ opacity: "0" });
     $(".about2")
       .animate({ top: "38%", left: "44.2%" })
       .css({ opacity: "0" });
     $(".about3")
-      .animate({ top: "38%", left: "43%" })
+      .animate({ top: "38%", left: "35%" })
       .css({ opacity: "0" });
     $(".about4")
       .animate({ top: "37.9%", left: "45.2%" })
