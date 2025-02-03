@@ -1,4 +1,5 @@
-# fiveddesign
-It is a website for a design company built with Javascript.
+# Five-D Design Website
+A website for a design company.
+
 [Website Link](https://5d-design-jastudio.netlify.app/)
 
